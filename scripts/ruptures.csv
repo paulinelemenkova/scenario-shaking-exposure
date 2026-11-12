@@ -1,0 +1,5 @@
+scenario,Mw,mechanism,strike,dip,rake,ztop_km,zbot_km,L_km,W_km,centre_lon,centre_lat,centre_depth_km
+Chaman,7.0,left-lateral,22,90,0,0.0,13.5,58.9,13.5,68.834,34.229,6.7
+Herat,7.5,right-lateral,90,90,180,0.0,18.4,120.2,18.4,62.2,34.355,9.2
+Hindu Kush,7.5,"reverse, intermediate depth",107,71.0,91.0,211.7,250.3,73.3,40.9,70.368,36.524,231.0
+Kholm-type,6.5,oblique reverse-strike-slip,241,70.2,37.3,16.8,26.2,28.8,9.9,67.11,36.709,21.5

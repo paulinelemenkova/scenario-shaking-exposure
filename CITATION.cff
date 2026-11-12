@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "scenario-shaking-exposure: ensemble regression of seismic shaking, from rupture geometry to exposure"
+abstract: "Open workflow from finite rupture through a weighted ground-motion logic tree, lithology-conditioned Vs30 and ShakeMap validation to macroseismic population exposure."
+type: software
+authors:
+  - family-names: Lemenkova
+    given-names: Polina
+    orcid: "https://orcid.org/0000-0002-5759-1089"
+  - family-names: Zülfikar
+    given-names: Abdullah Can
+    orcid: "https://orcid.org/0000-0001-6610-3334"
+repository-code: "https://github.com/paulinelemenkova/scenario-shaking-exposure"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-12"
+keywords:
+  - random forest
+  - residual learning
+  - ground-motion model
+  - logic tree
+  - Vs30
+  - ShakeMap
+  - population exposure
+  - OpenQuake
+  - GMT

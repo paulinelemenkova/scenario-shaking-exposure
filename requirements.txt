@@ -1,0 +1,10 @@
+openquake.engine==3.26.2
+numpy
+scipy
+pandas
+scikit-learn
+rasterio
+geopandas
+shapely
+pyproj
+matplotlib

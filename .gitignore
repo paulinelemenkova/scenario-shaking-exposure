@@ -1,0 +1,11 @@
+data/
+out/
+work_*/
+*.tif
+*.nc
+*.grd
+*.zip
+*.pdf
+*.png
+__pycache__/
+.DS_Store
